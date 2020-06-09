@@ -5,8 +5,24 @@
   using entering password .The user can change the password also of this system.
   
 <h1>REQUIRED COMPONENET FOR THIS PROJECT</h1>
-  1.**ARDUINO**  
+  **1.ARDUINO**  
    
    ![ARD](/photo/23.JPG)
-  2.**UlTRASONIC SENSOR**
-   ![ur]
+   
+  **2.UlTRASONIC SENSOR**
+   
+   ![ur](/29.JPG)
+  
+  **3.HC-05**
+  
+  ![hc](/28.jpg)
+
+  **4.SERVO MOTOR**
+  
+  ![ser](/photo/25.JPG)
+ 
+  **5.MOBILE APP**
+  
+  ![app](/photo/26.JPG)
+ 
+ <h1>PROJECT PREVIEW</h1>
