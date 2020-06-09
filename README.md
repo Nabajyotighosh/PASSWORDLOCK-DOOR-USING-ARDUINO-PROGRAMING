@@ -19,10 +19,10 @@
 
   **4.SERVO MOTOR**
   
-  ![ser](/photo/25.JPG)
+  ![ser](/photo/25.jpg)
  
   **5.MOBILE APP**
   
-  ![app](/photo/26.JPG)
+  *APK link:-* ![LINK](
  
  <h1>PROJECT PREVIEW</h1>
