@@ -29,7 +29,7 @@
  
  <h1>PROJECT PREVIEW</h1>
  
- ![GH](/photo/23.JPG)
+ ![GH](/photo/27.JPG)
  
  <h1>CIRCUIT DIAGRAM</h1>
  
@@ -45,7 +45,7 @@
   send signal to arduino then door will open vice versa which is a model made by servo motor in this project.
   A special option is there that automatic mode where user can give the command to door inputing password to open and close 
   simulteneously if there is a person in front of door.It will be checked by ultrasonic sensor.There is a buzzer which give the alarm.
-  ![PH](/photo/27.jpg)
+  
   
   *PROJECT VIDEO LINK*:-[link](https://youtu.be/d4FqD1iCcLQ)
  
