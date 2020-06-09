@@ -29,7 +29,7 @@
  
  <h1>PROJECT PREVIEW</h1>
  
- ![GH](/photo/27.JPG)
+ ![GH](/photo/27.jpg)
  
  <h1>CIRCUIT DIAGRAM</h1>
  
