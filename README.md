@@ -26,7 +26,7 @@
   
   >>The mobile app is made in MIT APP Inventor.
   
-  *APK link:-* [LINK](https://github.com/Nabajyotighosh/PASSWORDLOCK-DOOR-USING-ARDUINO-PROGRAMING/blob/master/passwordlock.apk)
+    *APK link:-* [LINK](https://github.com/Nabajyotighosh/PASSWORDLOCK-DOOR-USING-ARDUINO-PROGRAMING/blob/master/passwordlock.apk)
  
  <h1>PROJECT PREVIEW</h1>
  
