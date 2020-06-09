@@ -46,5 +46,5 @@
   A special option is there that automatic mode where user can give the command to door inputing password to open and close 
   simulteneously if there is a person in front of door.It will be checked by ultrasonic sensor.There is a buzzer which give the alarm.
   
-  *PROJECT VIDEO LINK*:-
+  *PROJECT VIDEO LINK*:-[link](https://youtu.be/d4FqD1iCcLQ)
  
