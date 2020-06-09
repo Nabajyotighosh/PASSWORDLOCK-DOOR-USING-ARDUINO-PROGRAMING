@@ -23,6 +23,8 @@
  
   **5.MOBILE APP**
   
-  *APK link:-* ![LINK](
+  *APK link:-* ![LINK](https://github.com/Nabajyotighosh/PASSWORDLOCK-DOOR-USING-ARDUINO-PROGRAMING/blob/master/passwordlock.apk)
  
  <h1>PROJECT PREVIEW</h1>
+ 
+ ![GH](/photo/23.jpg)
